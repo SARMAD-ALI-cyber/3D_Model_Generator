@@ -97,7 +97,7 @@ function App() {
                 Upload an Image
               </h2>
               <p className="text-gray-400 mb-6">
-                Upload an image to generate a 3D model. We'll convert it to PNG format if needed.
+                Upload an image to generate a 3D model.
               </p>
               <ImageUploader onImageUpload={handleImageUpload} />
             </div>
@@ -188,7 +188,7 @@ function App() {
         </main>
         
         <footer className="mt-12 text-center text-gray-500 text-sm">
-          <p>© 2025 3D Model Generator. All rights reserved.</p>
+          <p>© 2025 WALEE 3D Model Generator. All rights reserved.</p>
         </footer>
       </div>
     </div>
